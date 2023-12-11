@@ -21,10 +21,10 @@
 <li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 </ol>
 
-# Código
+# Main Files
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+# Presentation
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
