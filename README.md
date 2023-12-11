@@ -23,8 +23,8 @@
 
 # Main Files
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+<li><a href="src/README.md"> Detalhamento completo</a></li>
 
 # Presentation
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+<li><a href="presentation/README.md"> Apresentação de nosso trabalhop </a></li>
