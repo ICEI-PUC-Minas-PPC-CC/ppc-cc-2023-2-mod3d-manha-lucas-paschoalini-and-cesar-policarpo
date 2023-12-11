@@ -12,6 +12,10 @@ Agradeço pela oportunidade de ampliar meus conhecimentos a cada passo.
 
 <p>Aprofundei meus estudos, absorvendo e integrando os conhecimentos adquiridos em sala de aula, e colaborei ativamente com Lucas Paschoalini na elaboração de uma representação gráfica detalhada de pilares, destacando-se que essa representação corresponde a colunas estruturais. Este processo meticuloso e colaborativo resultou na completa realização de todos os objetivos previamente delineados para o trabalho final. A troca de ideias e a aplicação prática dos conceitos aprendidos enriqueceram significativamente o desenvolvimento da representação gráfica, culminando em uma abordagem abrangente e cuidadosa do tema proposto.</p>
 
+<h3>Em geral</h3>
+
+Utilizamos para esse trabalho imagens HDR do site polyhaven.com que disponilibilza imagens grátis para tal ação. Para modelagem e implementação do que foi aprendido, usamos a platorma Blender. As texturas de chão e marmóre que foram usadas para aperfeiçoar nosso projeto foram disponibilizadas através da platorma Google. Todos os itens usados e arquivos editaveis estão acima na platorma source.
+
 
 
 
