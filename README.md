@@ -1,7 +1,7 @@
 # Pilares Romanos na modelagem 3D
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Modelagem 3D`
 `2021 - Semestre 2`
 
 ## Integrantes
