@@ -27,4 +27,4 @@
 
 # Presentation
 
-<li><a href="presentation/README.md"> Apresentação de nosso trabalhop </a></li>
+<li><a href="presentation/README.md"> Apresentação de nosso trabalho </a></li>
