@@ -14,13 +14,6 @@
 
 - Will Machado
 
-# Documentação
-
-<ol>
-<li><a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-</ol>
-
 # Main Files
 
 <li><a href="src/README.md"> Detalhamento completo</a></li>
